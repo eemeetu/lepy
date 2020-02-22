@@ -1,2 +1,2 @@
-# lepy
-learning python
+# Le-Py
+Stands for: outstanding me LEarning PYthon
